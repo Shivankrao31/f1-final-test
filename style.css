@@ -1,0 +1,148 @@
+body{
+    background-color: #1E1E1E;
+    color: white;
+    width: 80vw;
+    /* display: flex;
+    justify-content: center; */
+    
+}
+header{
+    display: flex;
+    height: 2%;
+    /* border: 1px solid red; */
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.pizza{
+    display: flex;
+    /* border: 1px solid red; */
+    margin: 30px 20px;
+}
+.all{
+    display: flex;
+    /* border: 1px solid red; */
+    margin: 41px;
+    padding: 3px;
+}
+.social{
+    display: flex;
+    /* border: 1px solid red; */
+    margin: 25px;
+}
+
+.contaner{
+    height: 50vh;
+    width: 80vw;
+    size: 80vh;
+    background-image: url('pizza1\ 1.png');
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    align-items: baseline;
+}
+/* main{
+    background-image: url('pizza1\ 1.png');
+    background-size: 90% 60%;
+} */
+.text{
+    font-weight: 800;
+    /* width: ;
+    height: ; */
+    /* line-height: 108px; */
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.hr{
+    justify-content: center;
+    background-color: #F24C4C;
+    border: 4px solid blue;
+}
+.lorem{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+}
+.about{
+    text-align: center;
+}
+.contaner2{
+    display: flex;
+    justify-content: space-around;
+    height: 300px;
+    padding: 20px;
+    /* border: 2px solid red; */
+    margin-top: 22px;
+
+}
+.lorem1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    /* border: 2px solid red; */
+    height: 60%;
+    width: 38%;
+    
+}
+.img{
+    display: flex;
+    height: 80%;
+}
+ 
+.menu{
+    color: white;
+    text-align: center;
+    /* border: 2px solid red; */
+    height:100px ;
+}
+
+.menu-text{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 40px;
+    /* border: 2px solid red; */
+    height: 200px;
+    width: 60%;
+    margin: auto;
+}
+.contaner3{
+    /* border: 2px solid red; */
+    height: 175px;
+    display: flex;
+    margin: auto;
+}
+.contaner4{
+    /* border: 2px solid red; */
+    height: 175px;
+    display: flex;
+    margin: auto;
+}.contaner5{
+    /* border: 2px solid red; */
+    height: 175px;
+    display: flex;
+    margin: auto;
+}
+div.item1{
+    display: flex;
+}
+div.item2{
+    display: flex;
+}div.item3{
+    display: flex;
+}
+
+.find-us{
+    color: white;
+    text-align: center;
+    /* border: 2px solid red; */
+    height:100px ;
+}
